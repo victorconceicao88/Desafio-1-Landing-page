@@ -1,0 +1,154 @@
+*{ 
+    margin: 100px;
+    font-family: "inter";
+    background-color: white
+ }
+ 
+ #titulomenusuperior{
+     margin-left: -260px;
+     margin-top: -400px;
+     color: white;
+     font-size: 45px;
+     font-family: "inter";
+     
+ } 
+ 
+ #tituloparagrafo {
+    margin-left: -260px;
+    margin-top: -80px;
+    color: white;
+    padding-bottom: 100px;
+  }
+ 
+  #imagembacksuperior {
+     margin-left: -300px;
+     margin-top: -320px;
+     margin-right: -200px;
+  }
+ 
+  #menuinformacional {
+     background-color:#F9F9F9 ;
+     margin-bottom: -200px;
+     margin-left: -200px;
+     margin-right: -220px;
+     margin-top: -42px;
+     display: grid;
+     grid-auto-flow: column;
+     columns: auto;
+  }
+ 
+  #empreendimentos {
+     background-color: #F9F9F9
+  }
+ 
+  #experiencia {
+     background-color: #F9F9F9
+  }
+ 
+  #projetos {
+     background-color: #F9F9F9
+  }
+  
+  .icones {
+    margin-bottom: 50px;
+  }
+ 
+  #fotodomeio{
+     float: right;
+     margin-right: -350px;
+     margin-left: -1000px;
+     margin-bottom: -250px;
+     margin-right: -200px;
+     margin-top: -238px;
+     align-items: center;  
+ }
+ 
+ #titulomenufoto{
+     margin-left: -148px;
+     margin-top: 550px;
+     font-size: 24px;
+     font-weight: 400;
+     margin-bottom: -60px;
+     
+ }
+ #textomenufoto{
+ 
+ font-weight: 200;
+ width: 735px;
+ height: 161px;
+ margin-left: -150px;
+ margin-bottom: -260px;
+ top: 900px;
+ color:#000000;
+ font-size: 15px
+ 
+ }
+ 
+ 
+ #titulocabecario{
+     margin-top: -10px;
+     color: white;
+     font-family: "inter";
+     size: 32px;
+     font-weight: 700;
+     margin-bottom: -285px;
+     align-items: center;  
+ }
+ 
+ 
+ #fotocabecario {
+     margin-left: -300px;
+     margin-top: 370px;
+     margin-right: -120px;
+     margin-bottom: -600px;   
+ }
+ 
+ #botaonome{
+     align-items: center;
+     margin: 250px;
+     width: 508px;
+     height: 50px;
+     margin-left: 40px;
+     font-style: normal;
+     margin-bottom: -250px;
+     border: 0px;
+     border-radius: 5px;
+     padding-left: 10px;   
+ }
+ 
+ #botaoemail{
+     align-items: center;
+     margin: -250px;
+     width: 508px;
+     height: 50px;
+     margin-left: 40px;
+     margin-top: 100px;
+     margin-bottom: -350px; 
+     border: 0px;
+     border-radius: 5px;
+     padding-left: 10px;
+ }
+ 
+ button{
+     background-color:#C07212;
+     font-family: "raleway";
+     height: 50px;
+     width: 193px;
+     margin-left: 190px;
+     border: 0px;
+     border-radius: 5px;
+     padding-left: 10px;
+     font-weight: 600;
+     color: white;
+     font-size: 18px;
+     margin-bottom: 0px;
+     cursor: pointer;   
+ }
+
+button:hover {
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+}
+   
+    
+ 
